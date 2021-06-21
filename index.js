@@ -15,8 +15,9 @@ const dbClient = require('data-api-client')({
     // resourceArn: process.env.DATABASE_ARN,
     // database: process.env.DATABASE_NAME
 });
-//test
+//test kdfjghdkjghkgjhkgjhdfkjh
 
+skjhfksdjhfkh
 exports.handler = async (event) => {
     console.log(JSON.stringify(event));
     // const request = JSON.parse(event.body)
