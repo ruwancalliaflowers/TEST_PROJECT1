@@ -31,6 +31,7 @@ exports.handler = async (event) => {
         return generateHTTPResponse(response)
     }
 }
+bfhgf
 
 const getAllRegion = async () => {
     let result = await dbClient.query(SELECT_ALL_REGION)
